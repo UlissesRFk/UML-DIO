@@ -5,3 +5,6 @@
 
 ![UML _ Project Iphone drawio (1)](https://github.com/user-attachments/assets/fa8df8ce-d753-4881-acc0-813683523505)
 
+# Correção
+Interface --> ReprodutorMusical --> "# Pausar()"*
+
